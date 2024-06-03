@@ -3,7 +3,7 @@ import pandas as pd
 import plotly_express as px
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('/Users/raqui/sd-project/coffee.csv')
+df = pd.read_csv('/Racqso/sd-project/coffee.csv')
 
 # renaming columns
 df=df.rename(
