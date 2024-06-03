@@ -132,7 +132,6 @@ data = {
        }
 
 means_df = pd.DataFrame(data)
-print(means_df)
 
 #create header using streamlit
 st.subheader('Total score by country', divider='blue')
