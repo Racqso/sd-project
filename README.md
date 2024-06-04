@@ -25,4 +25,4 @@ drop()
 px.scatter()
 px.histogram()
 
-This tool can be launched from your local machine by downloading the code to your local system and typing streamlit run app.py in your local command line shell such as Git Bash.
+This tool can be launched through the Render link: https://sd-project-626d.onrender.com.
